@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Aktürk</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ware-mustafa&label=Profile%20views&color=0e75b6&style=flat" alt="ware-mustafa" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mustafa aktürk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa aktürk" height="30" width="40" /></a>
