@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3b/22/bd/3b22bd37e20ce993d52e4c3b242b73a3.gif" alt="MasterHead" width="400" height="150">
+  <img src="https://i.pinimg.com/originals/3b/22/bd/3b22bd37e20ce993d52e4c3b242b73a3.gif" alt="MasterHead" width="400" height="150">
+</p>
+
 <h1 align="center">Hi 👋, I'm Mustafa Aktürk</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
