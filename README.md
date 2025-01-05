@@ -17,7 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ware-mustafa&show_icons=true&locale=en" alt="ware-mustafa" /></p>
 
-https://i.pinimg.com/originals/ad/ec/97/adec9757e7b93ede5126a4e9f875debd.gif
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ware-mustafa&" alt="ware-mustafa" /></p>
 <p align="center">
