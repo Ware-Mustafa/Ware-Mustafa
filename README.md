@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/36/00/02/360002e4690d7889f7a3ca2ea406ea15.gif" alt="MasterHead" width="400" height="130">
   <img src="https://i.pinimg.com/originals/36/00/02/360002e4690d7889f7a3ca2ea406ea15.gif" alt="MasterHead" width="400" height="130">
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Mustafa Aktürk</h1>
@@ -16,11 +17,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ware-mustafa&show_icons=true&locale=en" alt="ware-mustafa" /></p>
 
+https://i.pinimg.com/originals/ad/ec/97/adec9757e7b93ede5126a4e9f875debd.gif
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ware-mustafa&" alt="ware-mustafa" /></p>
 <p align="center">
   <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="MasterHead" width="300" height="300">
 </p>
 <h3 align="center">✨ Thank You for Visiting! ✨</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  <img src="https://i.pinimg.com/originals/a1/7b/7d/a17b7d303790af1ef9d3f14aaa7cef41.gif" alt="MasterHead" width="70" height="70">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
+  <img src="https://i.pinimg.com/originals/a1/7b/7d/a17b7d303790af1ef9d3f14aaa7cef41.gif" alt="MasterHead" width="70" height="70">
 </p>
