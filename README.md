@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/36/00/02/360002e4690d7889f7a3ca2ea406ea15.gif" alt="MasterHead" width="400" height="150">
-  <img src="https://i.pinimg.com/originals/36/00/02/360002e4690d7889f7a3ca2ea406ea15.gif" alt="MasterHead" width="400" height="150">
+  <img src="https://i.pinimg.com/originals/36/00/02/360002e4690d7889f7a3ca2ea406ea15.gif" alt="MasterHead" width="400" height="130">
+  <img src="https://i.pinimg.com/originals/36/00/02/360002e4690d7889f7a3ca2ea406ea15.gif" alt="MasterHead" width="400" height="130">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mustafa Aktürk</h1>
