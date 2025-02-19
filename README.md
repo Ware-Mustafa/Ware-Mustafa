@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/36/00/02/360002e4690d7889f7a3ca2ea406ea15.gif" alt="MasterHead" width="400" height="130">
+  <img src="https://i.pinimg.com/originals/36/00/02/360002e4690d7889f7a3ca2ea406ea15.gif" alt="MasterHead" width="400" height="130">
 </p>
 
-<h1 align="center" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, magenta); -webkit-background-clip: text; color: transparent;">Hi 👋, I'm Mustafa Aktürk</h1>
+<h1 align="center" style="background: linear-gradient(90deg, red, yellow, green, cyan, blue, magenta); -webkit-background-clip: text; color: transparent;">Hi 👋, I'm Mustafa Aktürk</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
