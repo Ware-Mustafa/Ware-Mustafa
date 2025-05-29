@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8d/61/b3/8d61b33b0110f418d3a86ef1c16a0411.gif" alt="MasterHead" width="1200" height="500">
+  <img src="https://i.pinimg.com/originals/8d/61/b3/8d61b33b0110f418d3a86ef1c16a0411.gif"">
 </p>
 
 <h1 align="center" style="background: linear-gradient(90deg, red, yellow, green, cyan, blue, magenta); -webkit-background-clip: text; color: transparent;">Hi 👋, I'm Mustafa Aktürk</h1>
