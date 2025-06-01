@@ -55,5 +55,6 @@
   <img src="https://i.pinimg.com/originals/a1/7b/7d/a17b7d303790af1ef9d3f14aaa7cef41.gif" alt="MasterHead" width="70" height="70">
 </p>
 <p align="center">
-  <img src="https://count.getloli.com/get/@ware-mustafa?theme=moebooru" alt="Anime Visitor Counter" />
+ <img src="https://count.getloli.com/get/@ware-mustafa?theme=himeringo" />
+
 </p>
