@@ -59,4 +59,4 @@
 
 </p>
 
-![Colorful Snake](https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg)
+![Matrix Snake](https://raw.githubusercontent.com/s-shemmee/s-shemmee/output/github-contribution-grid-snake.svg)
