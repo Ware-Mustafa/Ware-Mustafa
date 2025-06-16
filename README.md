@@ -59,7 +59,7 @@
 
 </p>
 
-![Contribution Yılanı](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Contribution Yılanı](https://raw.githubusercontent.com/Ware-Mustafa/snk/output/github-contribution-grid-snake.svg)
 
 <!-- Eğer yılanı kendi GitHub istatistiklerinize göre oluşturmak isterseniz: -->
 ![Yılan Animasyonu](https://github.com/kullaniciadiniz/kullaniciadiniz/blob/output/github-contribution-grid-snake.svg)
