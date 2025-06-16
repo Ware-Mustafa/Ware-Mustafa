@@ -59,4 +59,4 @@
 
 </p>
 
-![Gradient Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Colorful Snake](https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg)
