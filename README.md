@@ -59,5 +59,4 @@
 
 </p>
 
-![Contribution Yılanı](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
+![Gradient Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
